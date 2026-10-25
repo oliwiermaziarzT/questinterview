@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="D3D12HelloTriangle.vcxproj" Id="5018f6a3-6533-4744-b1fd-727d199fd2e9" />
+</Solution>

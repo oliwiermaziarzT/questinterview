@@ -1,0 +1,29 @@
+# NuGet
+**/packages/
+*.nupkg
+!packages.config
+
+# Build
+**/bin/
+**/obj/
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.cso
+
+# Visual Studio
+**/.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
