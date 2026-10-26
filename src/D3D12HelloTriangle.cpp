@@ -222,8 +222,8 @@ void D3D12HelloTriangle::LoadAssets()
             DirectX::XMFLOAT4 color(colorRange(rng), colorRange(rng), colorRange(rng), 1.0f);
 
             triangleVertices.push_back({ { cx, cy + s, cz + s }, color });
-            triangleVertices.push_back({ { cx + s, cy - s, cz + s}, color });
-            triangleVertices.push_back({ { cx - s, cy - s, cz + s}, color });
+            triangleVertices.push_back({ { cx + s, cy - s, cz }, color });
+            triangleVertices.push_back({ { cx - s, cy - s, cz - s}, color });
         }
         
         const UINT vertexBufferSize = static_cast<UINT>(triangleVertices.size() * sizeof(Vertex));
