@@ -1,4 +1,4 @@
-# D3D12 Hello Triangle
+# DirectX Triangles
 
 ## Wymagania (Windows)
 
