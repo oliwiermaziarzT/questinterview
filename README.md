@@ -3,7 +3,7 @@
 ## Wymagania (Windows)
 
 - Windows 10/11
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) z workloadem **Desktop development with C++**
+- Visual Studio 2022 z workloadem **Desktop development with C++**
 - Windows 10 SDK
 
 ## Odpalanie
