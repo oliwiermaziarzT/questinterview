@@ -16,8 +16,8 @@
    - PPM na rozwiązanie → **Restore NuGet Packages**
 3. Ustaw konfigurację **Debug  x64** 
 4. Dodaj argument (liczba trojkatow)
-   1. Kliknij prawym przyciskiem myszy (PPM) na projekt w Solution Explorerze i wybierz **Properties** (Właściwości).
-   2. Przejdź do zakładki **Configuration Properties** → **Debugging**.
-   3. W polu **Command Arguments** wpisz pożądaną liczbę trójkątów (np. `50000`).
+   1. Kliknij prawym przyciskiem myszy na projekt w Solution Explorerze i wybierz **Properties**
+   2. Przejdź do zakładki **Configuration Properties** -> **Debugging**.
+   3. W polu **Command Arguments** wpisz pożądaną liczbę trójkątów
    4. Kliknij **Apply** / **OK**.
 4. Zbuduj i uruchom
