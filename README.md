@@ -5,7 +5,6 @@
 - Windows 10/11
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) z workloadem **Desktop development with C++**
 - Windows 10 SDK
-- Karta graficzna z obsługą DirectX 12
 
 ## Odpalanie
 
